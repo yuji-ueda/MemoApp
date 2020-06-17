@@ -28,6 +28,7 @@ const styles = StyleSheet.create({
     shadowOffset: { width: 0, height: 0 },
     shadowOpacity: 0.5,
     shadowRadius: 3,
+    elevation: 5,
     zIndex: 10,
   },
   appbarTitle: {
